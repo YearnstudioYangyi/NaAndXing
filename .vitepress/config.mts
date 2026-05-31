@@ -19,6 +19,14 @@ export default defineConfig({
         ]
       },
       {
+        text: '人物简介',
+        items: [
+          {text: '星野梦代',link: '/character/yumeyo'},
+          {text: '纳西妲',link: '/character/nahida'},
+          {text: '图集',link: '/character/pictures'},
+        ]
+      },
+      {
         text: '第一章',
         items: [
           { text: '额外说明', link: '/section/one/about'},
