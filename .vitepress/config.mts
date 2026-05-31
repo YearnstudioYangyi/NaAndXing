@@ -47,6 +47,5 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/YearnstudioYangyi/NaAndXing' }
     ]
-  },
-  assetsDir: 'assets'
+  }
 })
