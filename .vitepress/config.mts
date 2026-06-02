@@ -43,11 +43,17 @@ export default defineConfig({
         items: [
           { text: '额外说明', link: '/section/two/about'},
           { text: '第一节', link: '/section/two/1'},
-          // { text: '第二节', link: '/section/two/2'},
-          // { text: '第三节', link: '/section/two/3'},
-          // { text: '第四节', link: '/section/two/4'},
-          // { text: '第五节', link: '/section/two/5'},
-          // { text: '第六节', link: '/section/two/6'},
+          { text: '第二节', link: '/section/two/2'},
+          { text: '第三节', link: '/section/two/3'},
+          { text: '第四节', link: '/section/two/4'},
+          { text: '第五节', link: '/section/two/5'},
+          { text: '第六节', link: '/section/two/6'},
+          { text: '第七节', link: '/section/two/7'},
+          { text: '第八节', link: '/section/two/8'},
+          { text: '第九节', link: '/section/two/9'},
+          { text: '第十节', link: '/section/two/10'},
+          { text: '第十一节', link: '/section/two/11'},
+          { text: '第十二节', link: '/section/two/12'},
         ]
       }
     ],
